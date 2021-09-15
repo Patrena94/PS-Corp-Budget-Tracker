@@ -1,4 +1,4 @@
-const APP_PREFIX ='PSCorpBudget-';
+const APP_PREFIX ='Budget-Tracker';
 const VERSION ='version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 // Choose a cache name
