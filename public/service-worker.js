@@ -11,7 +11,7 @@ const precacheResources = [
 '/css/style.css', 
 '/js/main.js', 
 '/js/index.js',
-'/js/ibd.js',
+'/js/idb.js',
 '/icons',
 // '/js/app/editor.js', 
 // '/js/lib/actions.js'

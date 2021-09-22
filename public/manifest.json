@@ -33,7 +33,7 @@
 ],
     "name": "P3 Corp Budget Tracker",
     "short_name": "Budget Tracker",
-    "theme_color": "#008080",
+    "theme_color": "#000000",
    "background_color": "#ffffff",
     "start_url":"../index.html",
     "display": "standalone"
