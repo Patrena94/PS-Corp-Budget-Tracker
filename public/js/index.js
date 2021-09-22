@@ -137,7 +137,7 @@ function sendTransaction(isAdding) {
   .catch(err => {
     // fetch failed, so save in indexed db
     // saveRecord(transaction);
-    saveRecord(formData);
+    saveRecord(record);
 
     // clear form
     nameEl.value = "";
