@@ -36,15 +36,18 @@ function saveRecord(record) {
   
     // add record to your store with add method
     transactionObjectStore.add(record);
-
+}
     
-    // get all records from store and set to a variable
+function uploadtransaction() {
+  const transaction = db.transaction(['new_transaction'], 'readwrite');
+  const transactionObjectStore = transaction.objectStore('new_transaction');
+  // get all records from store and set to a variable
     const getAll = transactionObjectStore.getAll();
   // upon a successful .getAll() execution, run this function
 getAll.onsuccess = function() {
     // if there was data in indexedDb's store, let's send it to the api server
     if (getAll.result.length > 0) {
-      fetch('/api/transactions', {
+      fetch('/api/transaction/bulk', {
         method: 'POST',
         body: JSON.stringify(getAll.result),
         headers: {
