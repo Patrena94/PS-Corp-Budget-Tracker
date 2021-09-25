@@ -1,10 +1,7 @@
 const APP_PREFIX ='Budget-Tracker';
 const VERSION ='version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
-// Choose a cache name
-// const cacheName = 'cache-v1';
-// List the files to precache
-// const FILES_TO_CACHE
+
 const precacheResources = [
 '/', 
 '/index.html', 
@@ -13,8 +10,6 @@ const precacheResources = [
 '/js/index.js',
 '/js/idb.js',
 '/icons',
-// '/js/app/editor.js', 
-// '/js/lib/actions.js'
 ];
 
 // When the service worker is installing, open the cache and add the precache resources to it
@@ -42,7 +37,6 @@ self.addEventListener('activate', (event) => {
         })
     );
 });
-//   console.log('Service worker activate event!');
 
 // When there's an incoming fetch request, try and respond with a precached resource, otherwise fall back to the network
 self.addEventListener('fetch', (event) => {

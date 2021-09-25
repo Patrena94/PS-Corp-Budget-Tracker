@@ -7,19 +7,37 @@ button, input {
   font-size: 100%;
   font-family: Arial;
 }
+#add-btn{
+  background-color: mediumslateblue;
+  border-radius: 15%;
+}
+
+#sub-btn{
+  background-color: lime;
+  border-radius: 15%;
+}
+#t-name{
+  border:solid mediumslateblue;
+}
+
+#t-amount{
+  border: solid lime;
+}
 
 table {
   width: 100%;
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  /* border: 1px solid #dddddd; */
+  border: 1px solid mediumslateblue;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  /* background-color: #dddddd; */
+  background-color: lime;
 }
 
 .error {
