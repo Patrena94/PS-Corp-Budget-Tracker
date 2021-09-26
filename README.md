@@ -50,7 +50,7 @@ https://watch.screencastify.com/v/wEshDOTKVK9ISi83YBTM
 
 
 # Heroku
-The application has been deployed utilizing Heroku. Please review the application utilzing the below link.
+The application has been deployed in Heroku utilizing MongoDB Atlas. Please review the application utilzing the below link.
 
 https://p3s-corp-budget-tracker.herokuapp.com/
   
@@ -60,7 +60,7 @@ User interested in contributing to the project will need to create their own bra
 Contributors will need to initiate the application by typing into the command line mongo.  The User will then enter into the command line npm start or nodemon.
 
 # Test
-The User will need to clone the repo.  The User will need to initiate the application by typing into the command line mongo.  The following command line should be completed with nodemon or npm start (totally depends on user’s preference). The contributor will be able to review the website locally by typing localhost/3001 enter their browser. 
+The User will need to clone the repo.  The User will need to initiate the application by typing into the command line mongo.  The following command line should be completed with nodemon or npm start (totally depends on user’s preference). The contributor will be able to review the website locally by typing localhost/3001 enter their browser. The user should utilize the Chrome DevTools to test the Service Workers.
 
 # Screenshots
 
