@@ -46,6 +46,7 @@ Users and Contributors may review a walk-through video of the above description 
 
 Heroku walk through video:
 
+https://watch.screencastify.com/v/wEshDOTKVK9ISi83YBTM
 
 
 # Heroku
@@ -63,6 +64,22 @@ The User will need to clone the repo.  The User will need to initiate the applic
 
 # Screenshots
 
+![image](https://user-images.githubusercontent.com/83892241/134788826-3a1fe19b-787d-4cac-b2fe-181c0bc5690b.png)
+![image](https://user-images.githubusercontent.com/83892241/134788836-26af1fcf-f3de-422c-928f-e1d4d407f38c.png)
+![image](https://user-images.githubusercontent.com/83892241/134788840-0f7a784e-e3b8-428d-8da2-4600082af8ae.png)
+Localhost:3001-dev tool prints
+![image](https://user-images.githubusercontent.com/83892241/134788865-1fe26311-a30d-4220-b009-8b406354d61d.png)
+![image](https://user-images.githubusercontent.com/83892241/134788876-2a7f6073-aef6-434c-9203-7b46846ac5f1.png)
+![image](https://user-images.githubusercontent.com/83892241/134788891-b09d75a1-5cea-4958-8771-67a90a19dc55.png)
+![image](https://user-images.githubusercontent.com/83892241/134788896-e8039e88-04a8-4662-a544-5b3b92175158.png)
+![image](https://user-images.githubusercontent.com/83892241/134788899-67b5704d-9cb8-494f-82db-21ce838482e8.png)
+![image](https://user-images.githubusercontent.com/83892241/134788914-d9ec654e-ff9f-454b-88c3-a2a1b15de19b.png)
+![image](https://user-images.githubusercontent.com/83892241/134788920-dc2cb3ef-eb9c-4271-a64a-af82570fe3c1.png)
+![image](https://user-images.githubusercontent.com/83892241/134788922-ec9f533d-0cf2-4ba8-8c55-52757ea4607f.png)
+![image](https://user-images.githubusercontent.com/83892241/134788932-b3a05998-d089-46aa-8f94-bba48b411259.png)
+![image](https://user-images.githubusercontent.com/83892241/134788936-35475485-1e2f-4d40-9217-fe151839e622.png)
+![image](https://user-images.githubusercontent.com/83892241/134788938-6627e39f-e5ae-4f1f-a367-7a8ebfd2917a.png)
+![image](https://user-images.githubusercontent.com/83892241/134788941-288653b4-ecbb-4f8f-b845-ac83fb1da1a5.png)
 
 
 
